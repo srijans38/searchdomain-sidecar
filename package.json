@@ -1,0 +1,12 @@
+{
+  "name": "searchdomain-sidecar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:srijans38/searchdomain-sidecar.git",
+  "author": "Srijan Sharma <srijans38@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
